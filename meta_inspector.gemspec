@@ -16,7 +16,7 @@ Gem::Specification.new do |gem|
 
   gem.add_dependency 'nokogiri', '>= 1.10.8'
   gem.add_dependency 'faraday', '>= 0.17.3'
-  gem.add_dependency 'faraday_middleware', '~> 0.12.2'
+  gem.add_dependency 'faraday_middleware', '>= 0.10.0'
   gem.add_dependency 'faraday-cookie_jar', '~> 0.0.6'
   gem.add_dependency 'faraday-http-cache', '~> 2.0.0'
   gem.add_dependency 'faraday-encoding', '~> 0.0.5'
