@@ -20,7 +20,7 @@ Gem::Specification.new do |gem|
   gem.add_dependency 'faraday-cookie_jar', '~> 0.0.6'
   gem.add_dependency 'faraday-http-cache', '~> 2.0.0'
   gem.add_dependency 'faraday-encoding', '~> 0.0.5'
-  gem.add_dependency 'addressable', '~> 2.5.2'
+  gem.add_dependency 'addressable', '>=2.7.0'
   gem.add_dependency 'fastimage', '~> 2.1.4'
   gem.add_dependency 'nesty', '~> 1.0.2'
 
